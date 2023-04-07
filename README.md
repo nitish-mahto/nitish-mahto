@@ -1,4 +1,4 @@
-![logo](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg)
+<!-- ![logo](https://datahexa.com/wp-content/uploads/2018/03/data-science-b.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Nitish Mahto</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
