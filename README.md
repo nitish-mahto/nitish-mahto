@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-mahto" /> </p>
 
-- 🌱 I’m currently learning **Data Science, React, Node**
+- 🌱 I’m currently working on **Data Science, React Js, Node Js, MongoDb**
 
-- 💬 Ask me about **Data Science, Python, Android, Java, PHP, C, C++, MySql, Unix & Shell Programming**
+- 💬 Ask me about **Data Science, Javascript, Node js, Express, React Js, Python, Java, PHP, C, C++, MySql, MongoDB, SQL, Oracle Unix & Shell Programming**
 
 - 📫 How to reach me **mahtonitishkumar8865@gmail.com**
 
