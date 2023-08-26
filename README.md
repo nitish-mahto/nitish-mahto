@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-mahto" /> </p>
 
-- 🌱 I’m currently working on **Data Science, React Js, Node Js, MongoDb**
+- 🌱 I’m currently working on **Data Science, full Stack Developer**
 
 - 💬 Ask me about **Data Science, Javascript, Node js, Express, React Js, Python, Java, PHP, C, C++, MySql, MongoDB, SQL, Oracle Unix & Shell Programming**
 
